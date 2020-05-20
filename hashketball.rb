@@ -38,17 +38,17 @@ def game_hash
         steals: 3,
         blocks: 1,
         slam_dunks: 15
-        # },
-        # {
-        # player_name: "",
-        # number: ,
-        # shoe: ,
-        # points: ,
-        # rebounds: ,
-        # assists: ,
-        # steals: ,
-        # blocks: ,
-        # slam_dunks: 
+        },
+        {
+        player_name: "",
+        number: ,
+        shoe: ,
+        points: ,
+        rebounds: ,
+        assists: ,
+        steals: ,
+        blocks: ,
+        slam_dunks: 
         # },
         # {
         # player_name: "",
