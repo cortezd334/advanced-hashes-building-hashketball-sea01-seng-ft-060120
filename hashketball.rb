@@ -21,7 +21,8 @@ def game_hash
   
       }
         ]
-    }binding.pry,
+    },
+    binding.pry
     :away => {
       team_name:"",
       colors:[],
